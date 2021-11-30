@@ -38,7 +38,7 @@ print('Epoch nonce:', epoch_nonce305)
 # conversion to decimal
 dec = int(epoch_nonce305, 16)
 
-
+#the number of the winner is determined by the modulo of the decimal epoch nonce and the number of participating delegators.
 # 1st place 150 ADA
 place_1 = (dec)%number_participants
 
