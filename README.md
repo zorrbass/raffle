@@ -15,3 +15,6 @@ The fetch of the delegator list and the input of the epoch nonce need to be done
 
 ## **Epoch Nonce 308:** 
 `2b842312f5ca76bc0abe210d5d575336b7fa7bd2fa8a2838cb0ee3ef0b3c9c0b`
+
+## **Epoch Nonce 309:** 
+`68351492644fe19a312da82074f2728b1e99940adadd29dc3cd16f1e0f2ab1f4`
